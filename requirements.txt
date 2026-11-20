@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+boto3
+chromadb
+llama-index-core
+llama-index-embeddings-huggingface
+llama-index-vector-stores-chroma
+llama-index-llms-gemini
+llama-index-retrievers-bm25
+sentence-transformers
